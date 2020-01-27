@@ -27,3 +27,12 @@ const books = [
     img: "https://eloquentjavascript.net/img/cover.jpg"
   }
 ];
+
+// For each object
+
+  // Create article container
+    // Append Child <img>
+    // Append Child <h3>
+    // Append Child <p>
+    // Append Child <div>
+      // Append Child <span>
